@@ -1,0 +1,10 @@
+{
+  "HTML": {"estado": "pendiente", "notas": ""},
+  "CSS": {"estado": "pendiente", "notas": ""},
+  "JavaScript": {"estado": "pendiente", "notas": ""},
+  "PHP": {"estado": "pendiente", "notas": ""},
+  "MySQL": {"estado": "pendiente", "notas": ""},
+  "FullStack": {"estado": "pendiente", "notas": ""},
+  "Deploy": {"estado": "pendiente", "notas": ""},
+  "Frameworks": {"estado": "pendiente", "notas": ""}
+}
