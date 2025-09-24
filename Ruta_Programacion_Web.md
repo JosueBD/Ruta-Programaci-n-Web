@@ -102,4 +102,3 @@ Estilizar la página creada en la semana 1, que sea responsive y visualmente agr
 - [ ] Laravel (PHP) o Symfony
 - [ ] React.js o Vue.js para frontend
 - [ ] Crear API REST para conectar frontend y backend
-
